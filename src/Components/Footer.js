@@ -7,7 +7,7 @@ class Footer extends Component {
       <S.Footer>
         <h2>
           © 2023 WarnerMedia Direct Latin America, LLC. Todos os direitos
-          reservados. HBO Max é usado sob licença.
+          reservados. HBO Max é usado sob licença.*
         </h2>
       </S.Footer>
     );
